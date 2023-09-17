@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @draco-sweetfirekitsune
+- 👋 Hi, I’m [@draco-sweetfirekitsune](https://github.com/draco-sweetfirekitsune)
 - 👀 I’m interested in ... Theming & Design
 - 🌱 I’m currently learning ... Linux
 - 💞️ I’m looking to collaborate on ... Nothing atm
